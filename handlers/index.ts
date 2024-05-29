@@ -1,3 +1,1 @@
-import { Tebex as Tebex } from "./src/tebex";
-
-export { Tebex };
+export { Tebex } from "./src/tebex";

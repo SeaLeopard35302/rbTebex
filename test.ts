@@ -1,1 +1,1 @@
-import { Tebex } from "./handlers";
+import { Tebex } from "./handler";
