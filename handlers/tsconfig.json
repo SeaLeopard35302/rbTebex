@@ -7,9 +7,9 @@
     "skipLibCheck": true,
     "outDir": "./build",
     "forceConsistentCasingInFileNames": true,
-    "baseUrl": "./",
+    "baseUrl": ".",
     "paths": {
-      "handler/*": ["./handler/*"]
+      "handler": ["./build/index"]
     }
   }
 }

@@ -1,1 +1,3 @@
-export { Tebex } from "./src/tebex";
+import { Tebex as TebexHandler } from "./src/tebex";
+
+export { TebexHandler };

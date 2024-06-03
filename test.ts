@@ -1,1 +1,0 @@
-import { Tebex } from "./handler";
